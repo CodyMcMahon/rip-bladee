@@ -64,7 +64,7 @@ music.src = "music.mp3";
 music.setAttribute("preload", "auto");
 music.setAttribute("controls", "none");
 music.style.display = "none";
-music.volume = 0.5;
+music.volume = 0.2;
 
 explodee = document.createElement("audio");
 explodee.src = "explosion_02.ogg";
